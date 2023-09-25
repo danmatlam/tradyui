@@ -1,7 +1,7 @@
 {
-    "name": "@trady/tradyui",
+    "name": "@danmatlam/tradyui",
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/trady"
+        "registry": "https://npm.pkg.github.com/danmatlam"
     },
     "private": true,
     "version": "0.0.0",
